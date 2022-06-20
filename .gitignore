@@ -22,4 +22,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-/src/apis/youtube.js
+# /src/apis/youtube.js
+.vercel
